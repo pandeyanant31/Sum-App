@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sum</string>
+    <color name="cyan">#00FFFF</color>
+    <color name="RoseQuartz">#F7CAC9</color>
+</resources>
