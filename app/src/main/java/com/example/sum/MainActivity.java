@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 String s2 = editText2.getText().toString();
                 int num2 = Integer.parseInt(s2);
                 int ans = num1+num2;
-                textView.setText("Answer is "+ans);
+                textView.setText("Answer : "+ans);
             }
         });
     }
