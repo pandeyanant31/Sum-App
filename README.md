@@ -14,5 +14,5 @@ This is a basic Sum app which is created for practice.
 and much more basic that will help in future project.
 ## Screenshots
 <div align="center">
-    <img src="screenshot1.PNG"</img> 
+    <img src="s1.PNG"</img> 
 </div>
